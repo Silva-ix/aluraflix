@@ -1,8 +1,8 @@
 body {
-    color: rgb(6, 123, 201);
-    background: rgb(199, 13, 147, 1);
+    color: white;
+    background: black;
     margin: 0px;
-    font-family: "Freckle Face", serif;
+    font-family: "Chakra Petch", sans-serif;
 }
 
 header {
@@ -26,3 +26,4 @@ header {
 
 h1 {
     font-size: 40px;
+}
