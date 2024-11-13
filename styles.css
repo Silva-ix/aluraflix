@@ -11,3 +11,11 @@ header {
     font-size: 32px;
     color: black;
 }
+
+.chamada {
+    background: rgb(199, 13, 147, 1);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
