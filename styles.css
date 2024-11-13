@@ -1,12 +1,12 @@
 body {
-    color: rgb(77, 72, 72);
+    color: rgb(6, 123, 201);
     background: rgb(199, 13, 147, 1);
     margin: 0px;
     font-family: "Freckle Face", serif;
 }
 
 header {
-    border-bottom: solid 2px rgb(0, 0, 0);
+    border-bottom: solid 2px black;
     padding: 20px;
     font-size: 32px;
     color: black;
